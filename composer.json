@@ -1,0 +1,16 @@
+{
+    "name": "daemond/small-talk-with-hexlet",
+    "description": "Small Talk with Hexlet",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dima Antonenko",
+            "email": "daemondw@gmail.com"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "./sayHi/",
+        "./sayBye/"
+    ]
+}
