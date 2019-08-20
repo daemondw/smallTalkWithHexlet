@@ -10,8 +10,8 @@
     ],
     "require": {},
     "bin": [
-        "./sayHi/",
-        "./sayBye/"
+        "./sayHi",
+        "./sayBye"
     ],
     "minimum-stability": "dev" 
 }
