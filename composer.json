@@ -12,5 +12,6 @@
     "bin": [
         "./sayHi/",
         "./sayBye/"
-    ]
+    ],
+    "minimum-stability": "dev" 
 }
